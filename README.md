@@ -1,4 +1,4 @@
-# fylo_data_storage
+# Fylo data storage component
 
 A new Flutter application.
 
