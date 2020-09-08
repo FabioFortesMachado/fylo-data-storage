@@ -1,16 +1,9 @@
 # Fylo data storage component
 
-A new Flutter application.
+Hello, I took this challenge from the Frontend Mentor website and did it on Flutter. But I tried to make it adapt to as many devices as possible.
 
-## Getting Started
+Here's the challenge. https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n
 
-This project is a starting point for a Flutter application.
+I am using the Device Preview package in this project to test on multiple devices. https://pub.dev/packages/device_preview#-readme-tab-
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Note: I used the flutter_svg package, to use svg pictures. Keep in mind that this package is not working on the web. If you try to run on chrome it won't work
